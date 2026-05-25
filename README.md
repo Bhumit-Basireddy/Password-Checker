@@ -23,17 +23,3 @@ The app checks for 5 essential parameters:
 * **STANDARD SECURITY** (🟠 Orange) — 3 or 4 rules met.
 * **ULTRA ADVANCE PASSWORD STRENGTH** (🟢 Green) — All 5 rules successfully achieved.
 
-## 🚀 How to Run the App
-
-### 1. Prerequisites
-Ensure you have Python 3 installed on your Mac or system environment. You can check your version in your terminal using:
-```bash
-python3 --version
-```
-
-### 2. Execution Steps
-1. Save your code into a file named `Password_checker.py`.
-2. Open your desktop terminal, change directories into your project folder, and run:
-```bash
-python3 Password_checker.py
-```
